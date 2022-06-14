@@ -3,13 +3,12 @@
 Top langs(https://github-readme-stats.vercel.app/api/top-langs/?username=MelvinPaulsam)
 
 <p>
-- 🔭 I’m currently working on Frontend
-- 🌱 I’m currently learning MERN Stack
-- 👯 I’m looking to collaborate on React and ML
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about anything
-- 📫 How to reach me: 003melvin@gmail.com
-- ⚡ Fun fact: I like water .
+- 🔭 I’m currently working on Frontend<br>
+- 🌱 I’m currently learning MERN Stack<br>
+- 👯 I’m looking to collaborate on React and ML<br>
+- 💬 Ask me about anything<br>
+- 📫 How to reach me: 003melvin@gmail.com<br>
+- ⚡ Fun fact: I like water .<br>
 </p>
 ![Melvin Paulsam's GitHub stats](https://github-readme-stats.vercel.app/api?username=MelvinPaulsam&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MelvinPaulsam&layout=compact)
