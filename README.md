@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Top langs(https://github-readme-stats.vercel.app/api/top-langs/?username=MelvinPaulsam)
-<img src="https://media.giphy.com/media/bpmNf92LmkoMw/giphy.gif" width="400" height="400" />
+<img src="https://media.giphy.com/media/bpmNf92LmkoMw/giphy.gif" width="4000" height="1000" />
 
 <p>
 - 🔭 I’m currently working on Frontend<br>
