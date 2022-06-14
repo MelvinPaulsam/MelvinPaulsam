@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada
 
 <p>
 - 🔭 I’m currently working on Frontend
