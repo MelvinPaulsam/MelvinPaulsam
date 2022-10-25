@@ -14,7 +14,7 @@ Top langs(https://github-readme-stats.vercel.app/api/top-langs/?username=MelvinP
 ![Melvin Paulsam's GitHub stats](https://github-readme-stats.vercel.app/api?username=MelvinPaulsam&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MelvinPaulsam&layout=compact)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MelvinPaulsam&theme=neon-palenight&hide_border=true)
-
+[![Melvin Paulsam's github stats](https://github-readme-stats.vercel.app/api?username=MelvinPaulsam&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/MelvinPaulsam/github-readme-stats)
 <h2>Languages and Tools</h2>
 
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></code>
