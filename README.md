@@ -1,6 +1,4 @@
-### Hi there 👋
 
-<img src="https://media.giphy.com/media/Gev6zrYpjpYWY/giphy.gif" width="2000" height="500" />
 
 <p>
 - 🔭 I’m currently working on Frontend<br>
