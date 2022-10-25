@@ -11,7 +11,6 @@
 - ⚡ Fun fact: I like water .<br>
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=MelvinPaulsam&show_icons=true&theme=tokyonight" width=300 height=300)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelvinPaulsam&layout=compact">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=MelvinPaulsam&theme=neon-palenight&hide_border=true">
 <img src="https://github-readme-stats.vercel.app/api?username=MelvinPaulsam&count_private=true&show_icons=true&theme=radical&hide_rank=false">
 
