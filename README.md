@@ -11,12 +11,13 @@ Top langs(https://github-readme-stats.vercel.app/api/top-langs/?username=MelvinP
 - 📫 How to reach me: 003melvin@gmail.com<br>
 - ⚡ Fun fact: I like water .<br>
 </p>
-<code>
 <img src="https://github-readme-stats.vercel.app/api?username=MelvinPaulsam&show_icons=true&theme=tokyonight" width=300 height=300)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MelvinPaulsam&layout=compact)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MelvinPaulsam&theme=neon-palenight&hide_border=true)
-[![Melvin Paulsam's github stats](https://github-readme-stats.vercel.app/api?username=MelvinPaulsam&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/MelvinPaulsam/github-readme-stats)</p>
-  </code>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelvinPaulsam&layout=compact">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=MelvinPaulsam&theme=neon-palenight&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api?username=MelvinPaulsam&count_private=true&show_icons=true&theme=radical&hide_rank=false">
+
+<img src="https://github.com/MelvinPaulsam/github-readme-stats">
+
 <h2>Languages and Tools</h2>
 
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></code>
