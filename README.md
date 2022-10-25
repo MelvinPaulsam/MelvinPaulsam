@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-Top langs(https://github-readme-stats.vercel.app/api/top-langs/?username=MelvinPaulsam)
 <img src="https://media.giphy.com/media/Gev6zrYpjpYWY/giphy.gif" width="2000" height="500" />
 
 <p>
@@ -17,7 +16,7 @@ Top langs(https://github-readme-stats.vercel.app/api/top-langs/?username=MelvinP
 <img src="https://github-readme-stats.vercel.app/api?username=MelvinPaulsam&count_private=true&show_icons=true&theme=radical&hide_rank=false">
 
 <img src="https://github.com/MelvinPaulsam/github-readme-stats">
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelvinPaulsam">
 <h2>Languages and Tools</h2>
 
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></code>
